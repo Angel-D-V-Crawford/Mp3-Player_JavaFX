@@ -2,7 +2,7 @@
 
 Made with JavaFX 17.0.1 and OpenJDK 17.0.1. <br/>
 Used IntelliJ IDEA. <br/>
-Inspired by the [video](https://www.youtube.com/watch?v=-D2OIekCKes) that Bro Code made.
+Inspired by the [video](https://www.youtube.com/watch?v=-D2OIekCKes) that [Bro Code](https://www.youtube.com/channel/UC4SVo0Ue36XCfOyb5Lh1viQ) made.
 
 ## Features
 - Create a Playlist.
