@@ -12,3 +12,4 @@ Inspired by the [video](https://www.youtube.com/watch?v=-D2OIekCKes) that Bro Co
 - Simple and elegant GUI.
 
 ## Screenshot
+![Screenshot](./screenshot.PNG)
