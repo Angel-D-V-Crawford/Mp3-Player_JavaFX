@@ -1,0 +1,58 @@
+.table-view .column-header-background{
+    -fx-background-radius: 8px;
+    -fx-background-color: #00cffa;
+}
+
+.table-view .column-header {
+    -fx-background-color: #00cffa;
+    -fx-background-radius: 8px 8px 0 0;
+}
+
+.table-view .table-cell{
+    -fx-text-fill: #00cffa;
+    -fx-border-color: transparent;
+}
+
+.table-row-cell{
+    -fx-background-color: transparent;
+    -fx-border-radius: 8px;
+}
+
+.table-row-cell:selected {
+    -fx-background-color: #000000;
+    -fx-background-radius: 8px;
+}
+
+.slider .thumb {
+    -fx-pref-height: 20px;
+    -fx-pref-width: 20px;
+    -fx-background-color: #383838;
+    -fx-border-color: #00cffa;
+    -fx-border-radius: 12px;
+}
+
+#sliderSongProgress .track {
+    -fx-background-color: transparent;
+    -fx-background-radius: 8px;
+    -fx-border-color: #00cffa;
+    -fx-border-radius: 8px;
+}
+
+#sldVolume .track {
+    -fx-background-color: #00cffa;
+    -fx-background-radius: 8px;
+    -fx-border-color: #00cffa;
+    -fx-border-radius: 8px;
+}
+
+.toggle-button {
+    -fx-background-color: transparent;
+    -fx-border-color: #00cffa;
+    -fx-border-radius: 10px;
+}
+
+.toggle-button:selected {
+    -fx-background-color: #00cffa;
+    -fx-background-radius: 10px;
+    -fx-text-fill:  #383838;
+}
