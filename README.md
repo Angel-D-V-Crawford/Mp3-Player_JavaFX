@@ -1,7 +1,7 @@
 # Mp3 Player JavaFX
 
-Made with JavaFX 17.0.1 and OpenJDK 17.0.1.
-Used IntelliJ IDEA.
+Made with JavaFX 17.0.1 and OpenJDK 17.0.1. <br/>
+Used IntelliJ IDEA. <br/>
 Inspired by the [video](https://www.youtube.com/watch?v=-D2OIekCKes) that Bro Code made.
 
 ## Features
